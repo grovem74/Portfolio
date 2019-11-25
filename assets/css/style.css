@@ -1,0 +1,17 @@
+.left {
+    float: left;
+}
+
+p.left {
+    width: 600px;
+    margin: 20px 40px 0 20px;
+}
+
+header {
+    background-color: gray;
+}
+
+h1 {
+    font-size: 40px;
+    color: white;
+}
